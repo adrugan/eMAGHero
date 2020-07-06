@@ -1,0 +1,15 @@
+{
+    "name": "eMAGHero",
+    "description": "Game battle bettween Orderus and WildBeasts",
+    "authors": [
+        {
+            "name": "Alexandru Drugan",
+            "email": "alexandru.drugan@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "eMAGHero\\" : "src/"
+        }
+    }
+}
